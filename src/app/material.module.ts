@@ -5,7 +5,7 @@ import { MatButtonModule, MatIconModule,
     MatCheckboxModule, MatSidenavModule,
     MatToolbarModule, MatListModule, MatTabsModule,
     MatCardModule, MatSelectModule, MatProgressSpinnerModule,
-    MatDialogModule, 
+    MatDialogModule,
     MatTableModule,
     MatSortModule,
     MatPaginatorModule} from '@angular/material';
