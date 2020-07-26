@@ -16,7 +16,6 @@ import { map } from 'rxjs/operators';
 export class NewTrainingComponent implements OnInit, OnDestroy {
   exercises: Exercise[];
   exerciseSubscription: Subscription;
-
   constructor(private trainingService: TrainingService,
        private db: AngularFirestore) { }
 
